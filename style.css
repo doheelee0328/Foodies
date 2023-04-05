@@ -1,0 +1,11 @@
+.image {
+  background-image: url('images/fastFood.webp');
+  width: 100vw;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.text {
+  color: white;
+}
