@@ -1,25 +1,38 @@
 /* BASIC SET UP */
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-*, *:before, *:after {
-    box-sizing: inherit;
-} 
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
 
 .row {
-    max-width: 100%;
+  max-width: 100%;
 }
 .card {
-    height: 100%;
-    width: 22rem;
+  height: 100%;
+  width: 22rem;
 }
 
 .flex-container {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 .flex-item {
-    margin: 2rem;
+  margin: 2rem;
+}
+.image {
+  background-image: url('images/fastFood.webp');
+  width: 100vw;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.text {
+  color: white;
 }
