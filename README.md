@@ -1,3 +1,3 @@
 # Foodies
 
-During the time at La Fosse Academy, we had the opportunity to work with Bootstrap for the first time and we were tasked to create a fast food website in just a few hours, which was challenging However, our group was able to successfully create a fast food website that allows users to easily select their desired recipe for each food item. 
+At La Fosse Academy, we had the opportunity to work with Bootstrap for the first time, and it was definitely a challenge. In just a few hours, our group was tasked with creating a fast food website from scratch. However, despite the time constraints and the learning curve of using a new tool, we were able to successfully create a website that allows users to easily select their desired recipe for each food item.
